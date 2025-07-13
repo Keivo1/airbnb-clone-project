@@ -120,3 +120,69 @@ It speeds up development and avoids visual inconsistencies.
 It ensures the final product matches the intended design vision.
 Understanding the Figma environment allows me to translate design into code more accurately, improving the user experience and visual quality of the application.
 
+# Project Roles and Responsibilities
+
+Even though I’m currently working solo on this project, it’s important to define all roles typically involved in a project like this. Doing so not only helps clarify responsibilities for future collaboration, but also keeps the development process structured and aligned with industry best practices.
+
+# Project Manager
+
+Key Responsibilities:
+-Oversees the overall timeline and development roadmap
+-Coordinates task flow and prioritizes deliverables
+-Ensures communication and progress tracking
+-Contribution: Keeps the project focused, organized, and on schedule
+
+# Frontend Developers
+
+Key Responsibilities:
+-Build and style the user interface using React, HTML, and CSS
+-Ensure responsiveness across different screen sizes
+-Integrate APIs and manage component states
+-Implement accessibility and UX best practices
+Contribution: Responsible for the visible, interactive part of the app that users engage with
+
+# Backend Developers
+
+Key Responsibilities:
+-Design and develop the server-side logic and RESTful APIs
+-Set up database models and relationships
+-Handle authentication, data validation, and business logic
+Contribution: Provide the foundation that powers the app’s functionality and data flow
+
+# Designers
+
+Key Responsibilities:
+-Create the visual look and feel of the application using tools like Figma
+-Define typography, color schemes, spacing, and visual hierarchy
+-Work closely with developers to ensure the product matches the design vision
+Contribution: Shape the user experience and ensure the app is visually appealing and intuitive
+
+# QA/Testers
+
+Key Responsibilities:
+-Write and execute test cases for UI and backend features
+-Identify bugs, usability issues, or performance concerns
+-Provide feedback to developers for improvement
+Contribution: Help ensure a stable, functional, and user-friendly application
+
+# DevOps Engineers
+Key Responsibilities:
+Set up deployment pipelines (CI/CD)
+-Monitor app performance and server infrastructure
+-Manage version control workflows and environment variables
+Contribution: Ensure the application is reliably built, deployed, and maintained
+
+# Product Owner
+Key Responsibilities:
+-Define product requirements based on user needs and project goals
+-Prioritize features and align the product vision with user expectations
+-Provide continuous feedback on development progress
+Contribution: Acts as the voice of the user and ensures the product delivers value
+
+# Scrum Master
+Key Responsibilities:
+-Facilitate agile processes like sprint planning and stand-ups
+-Remove blockers and support the development team
+-Foster communication and iteration
+Contribution: Keeps the team agile, efficient, and focused on progress
+
