@@ -76,3 +76,47 @@ Property Listing View: Displays available properties in a grid layout. Includes 
 -Listing Detailed View: Provides in-depth information about a selected property, including high-quality images, pricing, host details, availability, and booking functionality.
 
 -Simple Checkout View : A clean, focused page where users can review their booking details, enter simulated payment information, and confirm their reservation.
+
+# Design Properties from Figma
+Understanding and documenting design properties early helps ensure consistency throughout development. Below are the core visual styles used in this project, based on the Figma mockup.
+
+# Color Styles
+Primary Color: #FF5A5F – Used for main actions (like buttons and highlights)
+
+Secondary Color: #008489 – Used for secondary buttons or links
+
+Background Color: #FFFFFF – Used as the main page background
+
+Primary Text Color: #222222 – For headlines and body text
+
+Secondary Text Color: #717171 – For subheadings and muted content
+
+# Typography
+Font Family: Circular (or system fallback: sans-serif)
+
+Headings:
+
+Font Weight: Bold (700)
+
+Font Size: 24px to 32px depending on the screen and heading level
+
+Body Text:
+
+Font Weight: Medium (500)
+
+Font Size: 16px
+
+Secondary Text:
+
+Font Weight: Book/Regular (400)
+
+Font Size: 14px
+
+# Why Design Properties Matter
+Identifying design properties like colors, typography, and spacing directly from a Figma mockup is essential for maintaining consistency across the application. These choices affect how users perceive and interact with the interface.
+By clearly defining these styles upfront:
+I can reuse them consistently in components (buttons, cards, headers, etc.).
+It speeds up development and avoids visual inconsistencies.
+It ensures the final product matches the intended design vision.
+Understanding the Figma environment allows me to translate design into code more accurately, improving the user experience and visual quality of the application.
+
