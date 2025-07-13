@@ -186,3 +186,51 @@ Key Responsibilities:
 -Foster communication and iteration
 Contribution: Keeps the team agile, efficient, and focused on progress
 
+## UI Component Patterns
+
+As the frontend developer on this project, one of my key responsibilities is to design and implement reusable, responsive, and consistent UI components. These components will form the building blocks of the user interface and will be styled with accessibility, responsiveness, and scalability in mind.
+
+# Navbar
+The navigation bar will appear at the top of every page and include:
+- The Airbnb Clone logo or brand name
+- A search input for quick access to properties
+- Navigation links/icons for login, profile, and saved listings
+- Responsive layout for mobile, tablet, and desktop views
+
+# Property Card
+This component will be used to display each accommodation in the listings grid. It will include:
+- Property image or carousel preview
+- Title and location
+- Price per night
+- User rating
+- Favorite (heart) icon
+- Responsive layout adjustments based on screen size
+
+# Listing Detail Components
+These include several sections found on the individual property detail page, such as:
+- Image gallery or slider
+- Property description and amenities
+- Host profile and contact info
+- Availability calendar
+- Booking form (date picker, guest count)
+
+# Booking Summary / Checkout Card
+This component will appear during the booking process and will include:
+- Selected dates and number of guests
+- Price breakdown
+- Confirm booking button
+
+# Footer
+The footer will appear on all pages and include:
+- Site navigation links (About, Help, Privacy, Terms)
+- Optional social media icons
+- Copyright
+
+# Modal / Alert Component
+A reusable modal for:
+- Login or signup prompts
+- Booking confirmations
+- Error and success notifications
+
+Each component will be built using best practices for component reusability and will support responsiveness for different screen sizes. The styling will be handled using Tailwind CSS or another utility-first CSS framework.
+
